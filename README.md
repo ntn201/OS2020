@@ -1,4 +1,5 @@
 # OS2020
 
-Daniel Hagimont
-hagimont@enseeiht.fr
+Nguyen Tran Nguyen
+Studen ID: BI10-128
+nguyennt.bi10-128@st.usth.edu.vn
